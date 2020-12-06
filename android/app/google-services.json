@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202903664412",
+    "project_id": "evanfirebase-4c781",
+    "storage_bucket": "evanfirebase-4c781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202903664412:android:785ed28f988410f6ac6cd9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_evang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202903664412-ib37372korqc8r37rfe3a5nd9i4omhlk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app_evang",
+            "certificate_hash": "07e8627d8953fff69f880ed4a8faaa636d8116b0"
+          }
+        },
+        {
+          "client_id": "202903664412-m1begpqec6sms2no9phoj3vh9cgqb50h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNTeWjWqDTku7IK7BySFYHUpMJk4LqYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202903664412-m1begpqec6sms2no9phoj3vh9cgqb50h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
